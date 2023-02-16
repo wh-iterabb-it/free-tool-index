@@ -9,7 +9,7 @@ This is a repository to track and share free penitration testing and blue team t
 * Management
 * Penetration Testing
 
-Click on Tool Name to visit tool's homepage, credit and attribution is given to the best of the ability of our organization and the tool's documentation provides. We are always looking to improve this list, If there are worthy additions corrections or mistakes please dont hesitate to make a pull request that adhears to our community guidelines and we will work to merge it. 
+Click on Tool Name to visit tool's homepage, credit and attribution is given to the best of the ability of our organization and the tool's documentation provides. We are always looking to improve this list, If there are worthy additions corrections or mistakes please dont hesitate to make a pull request that adhears to our [community guidelines](https://github.com/wh-iterabb-it/.github/blob/main/docs/CODE_OF_CONDUCT.md) and we will work to merge it. 
 
 ## Tool List
 
